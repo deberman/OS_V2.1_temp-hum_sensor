@@ -1,2 +1,3 @@
 # OS_V2.1_temp-hum_sensor
-Simulates a temperature/humisity sensor using Oregon scientific protocol V2.1
+Arduino library that simulates a temperature/humidity 
+sensor using Oregon scientific protocol V2.1
